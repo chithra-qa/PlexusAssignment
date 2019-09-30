@@ -10,12 +10,16 @@ The test is implemented for Windows-Chrome. ChromeDriver executable is part of t
 To run from commandline
 -------------------------
 Checkout the project
+
 From the root dir, run the command : mvn compile test
 
 To run from IDE
 -----------------
-Download the repo 
-Import the project as Maven-> Existing Project
-Right click on the project -> Maven clean -> Maven Compile
+Download the repo.
+
+Import the project as Maven-> Existing Project.
+
+Right click on the project -> Maven clean -> Maven Compile.
+
 Right click on the project -> Run as -> JUnit test  or Right Click on the featureFile-> Run as Cucumber feature
 
